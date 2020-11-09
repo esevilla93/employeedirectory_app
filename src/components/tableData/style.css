@@ -1,0 +1,31 @@
+img {
+    border-radius: 50%;  
+    box-shadow: black 1px 1px 8px;  
+ }
+
+.employeeTable{
+    border: 3px solid black;
+  width: 100%;
+  text-align: center;
+}
+
+.employeeTable td, .employeeTable th {
+    border: 1px solid black;
+    padding: 5px 4px;
+  }
+
+.employeeTable tbody td {
+    font-size: 13px;
+}
+
+.employeeTable thead {
+    background: white;
+    border-bottom: 3px solid black;
+    
+}
+
+.employeeTable thead th{
+  font-size: 15px;
+  color: black;
+  text-align: center;
+}
